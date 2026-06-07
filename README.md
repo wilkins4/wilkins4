@@ -2,22 +2,22 @@
 
 Cybersecurity student building toward IT support, networking, and junior security support.
 
-I use this GitHub to keep my public technical work organized around practical troubleshooting, support documentation, and lab evidence.
+I use this GitHub to keep public technical work organized around practical troubleshooting, support documentation, coursework, and lab notes.
 
 ## Current Focus
 
 - Entry-level IT support, help desk, desktop support, and junior security support readiness.
 - Cybersecurity coursework at Eastern Florida State College.
 - CompTIA A+ study progress.
-- Linux, Windows, networking, DNS, and support-style lab notes.
+- Linux, Windows, networking, DNS, and support-style notebook pages.
 
-## Portfolio Proof
+## Current Public Pages
 
-- [stephenwilkinson.dev](https://stephenwilkinson.dev) - public resume and project hub.
-- [Linux Exam Sandbox Lab](https://stephenwilkinson.dev/homelab-infrastructure.html) - Linux command-line and break/fix practice.
-- [DNS and Connectivity Lab](https://stephenwilkinson.dev/networking-lab.html) - support-style troubleshooting flow.
-- [Windows Support Ticket Lab](https://stephenwilkinson.dev/windows-support-ticket.html) - printer offline case with validation and user-facing notes.
+- [stephenwilkinson.dev](https://stephenwilkinson.dev) - public resume and work index.
+- [Lab Notes](https://stephenwilkinson.dev/lab-notes.html) - ongoing notebook for support-style documentation.
+- [Linux Sandbox Notes](https://stephenwilkinson.dev/homelab-infrastructure.html) - working Linux command-line and lab practice notes.
+- [DNS and Connectivity Notes](https://stephenwilkinson.dev/networking-lab.html) - working networking troubleshooting notes.
 
 ## How I Document Work
 
-I try to write technical notes in a repeatable support format: objective, environment, procedure, validation, evidence, and next step. The goal is to show how I isolate problems and communicate fixes, not just list tools.
+I am trying to write technical notes in a repeatable support format: objective, environment, procedure, validation, notes, and next step. Some pages are still workbench material; the goal is to show learning process and improve the notes as the labs mature.
