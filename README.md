@@ -1,4 +1,4 @@
-# Stephen Wilkinson
+
 
 [Resume site: stephenwilkinson.dev](https://stephenwilkinson.dev)
 
