@@ -22,7 +22,3 @@ I use this GitHub to keep public technical work organized around practical troub
 - [Lab Notes](https://stephenwilkinson.dev/lab-notes.html) - ongoing notebook for support-style documentation.
 - [Linux Sandbox Notes](https://stephenwilkinson.dev/homelab-infrastructure.html) - working Linux command-line and lab practice notes.
 - [DNS and Connectivity Notes](https://stephenwilkinson.dev/networking-lab.html) - working networking troubleshooting notes.
-
-## How I Document Work
-
-I am trying to write technical notes in a repeatable support format: objective, environment, procedure, validation, notes, and next step. Some pages are still workbench material; the goal is to show learning process and improve the notes as the labs mature.
